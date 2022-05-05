@@ -17,21 +17,24 @@
 }
 
 main{
-  margin: 50px 0;
-  width: 840px
+  margin: 50px auto;
+  width: 840px;
 }
 
 .service1{
+  margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom:1px solid #d1d1d1;
 }
 
 .service2{
+  margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom:1px solid #d1d1d1;
 }
 
 .service3{
+  margin-bottom: 30px;
   padding-bottom: 30px;
   border-bottom:1px solid #d1d1d1;
 }
